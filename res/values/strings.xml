@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MtLanguage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_get_char">http://192.168.12.19:8080/TomcatTest/GetCh</string>
+    <string name="server_put_data">http://124.16.139.218/collect/</string>
+    <string name="confirm">确认</string>
+    <string name="writehere">在此书写该字</string>
+    <string name="rewrite">重写</string>
+    <string name="pre_stroke">上一笔</string>
+
+</resources>

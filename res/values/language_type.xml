@@ -1,0 +1,9 @@
+<resources>
+
+    <string-array name="language_type">
+        <item>藏文</item>
+        <item>蒙古文</item>
+        <item>维吾尔文</item>
+    </string-array>
+
+</resources>
